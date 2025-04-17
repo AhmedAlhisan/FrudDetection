@@ -84,17 +84,6 @@ def evaluate_model_on_dataset(dataset_path, model_path='xgb_model.joblib', scale
 
 ---
 
-## 📂 Project Structure
-
-```bash
-├── notebooks/                  # Experiments and training
-├── models/                     # Saved models and scalers (.joblib)
-├── data/                       # Preprocessed datasets
-├── utils/                      # Evaluation and helper functions
-└── README.md                   # Project overview
-```
-
----
 
 ## 📌 Lessons Learned
 
@@ -108,7 +97,7 @@ def evaluate_model_on_dataset(dataset_path, model_path='xgb_model.joblib', scale
 ## 👨‍💻 Author
 **Ahmed Alhisan**  
 Building scalable AI & analytics systems for real-world impact  
-Connect on [LinkedIn](https://www.linkedin.com/) *(insert actual link)*
+
 
 ---
 
